@@ -11,12 +11,12 @@ The goal is to collect 10 coins, which will trigger the "Objective Complete!" te
 Only supports keyboard + mouse for now. Controller input system isn't finished yet.
 
 There is no tutorial in the game yet, so here are the controls:
-Movement - WASD
-Looking - Mouse Movement
-Sprint - Shift
-Jump - Spacebar
-Interact (with ladders) - E
-Pause - Escape-Key
+- Movement - WASD
+- Looking - Mouse Movement
+- Sprint - Shift
+- Jump - Spacebar
+- Interact (with ladders) - E
+- Pause - Escape-Key
 
 ## Issues
 Jumping while sprinting does not always work.
