@@ -19,6 +19,6 @@ There is no tutorial in the game yet, so here are the controls:
 - Pause - Escape-Key
 
 ## Issues
-Jumping while sprinting does not always work.
-You can fall off the map by walking off (dont do that).
-The buttons of the pause menu are mostly non-functioning, except for Resume and Main Menu.
+- Jumping while sprinting does not always work.
+- You can fall off the map by walking off (dont do that).
+- The buttons of the pause menu are mostly non-functioning, except for Resume and Main Menu.
